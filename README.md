@@ -1,4 +1,4 @@
-![Portada del libro] (portada.jpg)
+![Portada](portada.jpg)
 
 El Órgano de Garrafones y su Catedral en último piso
 Frater Noster Gravis
