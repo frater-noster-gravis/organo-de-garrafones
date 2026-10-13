@@ -1,4 +1,4 @@
-![Portada del libro] (00 portada.jpg)
+![Portada del libro] (00%20portada.jpg)
 El Órgano de Garrafones y su Catedral en último piso
 Frater Noster Gravis
 Primera y única edición. Octubre, 2026.
