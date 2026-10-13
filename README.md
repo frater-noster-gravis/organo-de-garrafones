@@ -17,7 +17,7 @@ Se describe prototipo funcional con fotografías y datos técnicos, pruebas real
 Documento bajo licencia CC BY-SA 4.0.
 
 Link para descarga de PDF:
-[Click aquí para descargar el PDF](libro.pdf)
+[Click aquí para descargar el PDF](https://github.com/frater-noster-gravis/organo-de-garrafones/raw/main/libro.pdf)
 
 Archive.org link PDF: https://archive.org/details/el-organo-de-garrafones-frater-noster-2026
 
